@@ -1,2 +1,2 @@
 first commit
---Hoc Oc cho--
+--Thanh loz Oc cho--
