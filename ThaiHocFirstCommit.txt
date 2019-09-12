@@ -4,3 +4,5 @@ Test for my first commit
 --Thanh edit--
 
 --Hoc edit lan 2--
+
+--Hoc edit lan 3--
