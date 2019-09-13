@@ -1,1 +1,15 @@
 C:\Users\TRUONGHP\Desktop\test\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojAssemblyReference.cache
+E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.f1.resources
+E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
+E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.f1.resources
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.Cache
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
+C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojResolveAssemblyReference.cache
