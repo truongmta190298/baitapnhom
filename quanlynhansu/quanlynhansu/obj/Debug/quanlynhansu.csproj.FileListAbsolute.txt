@@ -4,6 +4,7 @@ E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhans
 E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
 E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
 E:\1-Hoc-tren-lop\ttn\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
@@ -13,3 +14,5 @@ C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlyn
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
 C:\Users\Duy\Source\Repos\baitapnhom\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> a1a3373379a018463430d61d0e2b522a04777342
