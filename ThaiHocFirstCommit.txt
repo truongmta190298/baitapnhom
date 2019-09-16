@@ -6,3 +6,4 @@ Test for my first commit
 --Hoc edit lan 2--
 
 --Hoc edit lan 3--
+truong
